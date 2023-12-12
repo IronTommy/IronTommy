@@ -48,7 +48,7 @@ Driven Development) и SOLID (single responsibility, open–closed, Liskov subst
 
 ![Java](https://img.shields.io/badge/-Java-003f5c?style=for-the-badge&logo=appveyor) ![SPRING BOOT](https://img.shields.io/badge/-SPRING_BOOT-003f5c?style=for-the-badge&logo=appveyor) ![POSTGRES](https://img.shields.io/badge/-POSTGRES-003f5c?style=for-the-badge&logo=appveyor) ![DOCKER](https://img.shields.io/badge/-DOCKER-003f5c?style=for-the-badge&logo=appveyor) ![GIT](https://img.shields.io/badge/-GIT-003f5c?style=for-the-badge&logo=appveyor) ![HTML](https://img.shields.io/badge/-HTML-003f5c?style=for-the-badge&logo=appveyor) ![CSS](https://img.shields.io/badge/-CSS-003f5c?style=for-the-badge&logo=appveyor) ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-
+<!--
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -59,7 +59,7 @@ Driven Development) и SOLID (single responsibility, open–closed, Liskov subst
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
-
+-->
 ---
 
 ### 🛠 Инструменты:
