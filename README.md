@@ -7,9 +7,18 @@
 
 Я начинающий Java разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
+
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
+
+
+- Довольно тесно знаком с принципами ООП, паттернами проектирования и такими методологиями, как: TDD(Test 
+Driven Development) и SOLID (single responsibility, open–closed, Liskov substitution, interface segregation и dependency inversion).
+
+### Основные проекты
+
+- :balloon:  [java-Task-Manager](https://github.com/ironTommy/java-Task-Manager) - REST приложение для управления задачами.
 
 - :seedling: Завершил курсы по Java разработке на SkillBox!
 
@@ -36,6 +45,9 @@
 ---
 
 ### 💻 Технологии:
+
+![Java](https://img.shields.io/badge/-Java-003f5c?style=for-the-badge&logo=appveyor) ![SPRING BOOT](https://img.shields.io/badge/-SPRING_BOOT-003f5c?style=for-the-badge&logo=appveyor) ![POSTGRES](https://img.shields.io/badge/-POSTGRES-003f5c?style=for-the-badge&logo=appveyor) ![DOCKER](https://img.shields.io/badge/-DOCKER-003f5c?style=for-the-badge&logo=appveyor) ![GIT](https://img.shields.io/badge/-GIT-003f5c?style=for-the-badge&logo=appveyor) ![HTML](https://img.shields.io/badge/-HTML-003f5c?style=for-the-badge&logo=appveyor) ![CSS](https://img.shields.io/badge/-CSS-003f5c?style=for-the-badge&logo=appveyor) ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
