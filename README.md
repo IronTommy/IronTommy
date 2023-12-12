@@ -42,7 +42,7 @@ Driven Development) и SOLID (single responsibility, open–closed, Liskov subst
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
   </div>
 
----
+
 
 ### 💻 Технологии:
 
@@ -60,7 +60,7 @@ Driven Development) и SOLID (single responsibility, open–closed, Liskov subst
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 -->
----
+
 
 ### 🛠 Инструменты:
 
@@ -74,7 +74,7 @@ Driven Development) и SOLID (single responsibility, open–closed, Liskov subst
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
----
+
 
 <!-- ### 💻 Пройденные курсы:
 
