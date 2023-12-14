@@ -5,7 +5,7 @@
 
 # Обо мне:
 
-Я начинающий Java разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+Стремлюсь стать выдающимся Java-разработчиком <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
 
 <p align="center">
@@ -13,8 +13,7 @@
 </p>
 
 
-- Довольно тесно знаком с принципами ООП, паттернами проектирования и такими методологиями, как: TDD(Test 
-Driven Development) и SOLID (single responsibility, open–closed, Liskov substitution, interface segregation и dependency inversion).
+Обладаю глубоким пониманием принципов объектно-ориентированного программирования, паттернов проектирования и методологий, таких как TDD (Test Driven Development) и SOLID (single responsibility, open–closed, Liskov substitution, interface segregation, dependency inversion). Готов к неуклонному развитию и постоянному совершенствованию своих навыков в мире Java-разработки)
 
 ### Основные проекты
 
