@@ -33,7 +33,7 @@
 
   <div id="badges">
     </a>
-    <a href="https://t.me/Iron_Gray" target="_blank">
+    <a href="https://t.me/Timur_Shaydullin" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="https://www.youtube.com/user/timullka/about" target="_blank">
@@ -101,7 +101,7 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Timur_Shaydullin&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ironTommy&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ironTommy&layout=compact&theme=vision-friendly-dark" />
