@@ -23,7 +23,7 @@
 
 - :seedling: Завершил курсы по Java разработке на Skillbox!
 
--  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-IronTommy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Iron_Gray) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:timullka@gmail.com)
+-  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Timur_Shaydullin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Timur_Shaydullin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:timullka@gmail.com)
 
   
 
