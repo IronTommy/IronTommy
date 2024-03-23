@@ -19,9 +19,13 @@
 
 ### Основные проекты
 
-- :balloon:  [java-Task-Manager](https://github.com/ironTommy/java-Task-Manager) - REST приложение для управления задачами.
+- 🎈  [java-Task-Manager](https://github.com/ironTommy/java-Task-Manager) - REST приложение для управления задачами.
 
-- :seedling: Завершил курсы по Java разработке на Skillbox!
+- 🚀 Завершил курсы по Java разработке с нуля до про на Skillbox!
+
+- 🥇 разработал в команде социальную сеть работал над security + JWT
+  
+- 🫀 использовал Kafka для установки статусов и уведолмений
 
 -  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Timur_Shaydullin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Timur_Shaydullin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:timullka@gmail.com)
 
