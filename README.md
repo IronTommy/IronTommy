@@ -1,4 +1,3 @@
-
 # Привет, меня зовут Тимур!
 
 ---
@@ -7,11 +6,9 @@
 
 Стремлюсь стать выдающимся Java-разработчиком <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
-
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
-
 
 Обладаю глубоким пониманием принципов объектно-ориентированного программирования, паттернов проектирования и методологий, таких как TDD (разработка через тестирование), базовые принципы SOLID, стремясь к чистому и легкому коду. 
 
@@ -25,7 +22,6 @@
 - Писал и оптимизировал SQL запросы;
 - Разрабатывал Android приложения.
 
-
 ### Проекты
 
 - 🎈  [java-Task-Manager](https://github.com/ironTommy/java-Task-Manager) - REST приложение для управления задачами.
@@ -36,7 +32,6 @@
 
 -  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Timur_Shaydullin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Timur_Shaydullin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:timullka@gmail.com)
 
-  
 
 ---
 
