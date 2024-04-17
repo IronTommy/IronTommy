@@ -49,8 +49,6 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
   </div>
 
-
-
 ### 💻 Технологии:
 
 ![Java](https://img.shields.io/badge/-Java-003f5c?style=for-the-badge&logo=appveyor) ![SPRING BOOT](https://img.shields.io/badge/-SPRING_BOOT-003f5c?style=for-the-badge&logo=appveyor) ![POSTGRES](https://img.shields.io/badge/-POSTGRES-003f5c?style=for-the-badge&logo=appveyor) ![DOCKER](https://img.shields.io/badge/-DOCKER-003f5c?style=for-the-badge&logo=appveyor) ![GIT](https://img.shields.io/badge/-GIT-003f5c?style=for-the-badge&logo=appveyor) ![HTML](https://img.shields.io/badge/-HTML-003f5c?style=for-the-badge&logo=appveyor) ![CSS](https://img.shields.io/badge/-CSS-003f5c?style=for-the-badge&logo=appveyor) ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
