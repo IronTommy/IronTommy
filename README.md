@@ -10,7 +10,7 @@
 
 ---
 
-### Проекты:
+## Проекты:
 
 - 🎈  [organization-service](https://github.com/ironTommy/organization-service) - Spring Boot приложение для управления организациями с использованием REST API.
 
@@ -25,7 +25,7 @@
 
 ---
 
-### 🤝 Социальные сети:
+## 🤝 Социальные сети:
 
   <div id="badges">
     </a>
@@ -41,7 +41,7 @@
      
 ---
 
-### 🛠 стек:
+## 🛠 стек:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -87,12 +87,12 @@
 
 --- -->
 <!--
-### 💻 Codewars:
+## 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/ironTommy/badges/large)
 
 -->
-### ⚙️ GitHub статистика:
+## ⚙️ GitHub статистика:
 
 <table>
   <tr>
