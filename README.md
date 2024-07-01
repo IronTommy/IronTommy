@@ -22,7 +22,7 @@
 - 🎈  [REST_security_jwt](https://github.com/IronTommy/REST_security_jwt) - Пример реализации аутентификации и авторизации в приложении Spring с использованием JSON Web Tokens (JWT).
 
 -  Как связаться со мной:
--  [![Telegram Badge](https://img.shields.io/badge/-Timur_Shaydullin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Timur_Shaydullin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:timullka@gmail.com)
+   [![Telegram Badge](https://img.shields.io/badge/-Timur_Shaydullin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Timur_Shaydullin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:timullka@gmail.com)
 
 ---
 
