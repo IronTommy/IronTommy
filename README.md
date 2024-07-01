@@ -2,7 +2,7 @@
 
 ---
 
-# Обо мне:
+## Обо мне:
 
 Стремлюсь стать выдающимся Java-разработчиком <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
@@ -12,7 +12,7 @@
 
 ---
 
-### Проекты
+### Проекты:
 
 - 🎈  [organization-service](https://github.com/ironTommy/organization-service) - Spring Boot приложение для управления организациями с использованием REST API.
 
@@ -43,7 +43,7 @@
      
 ---
 
-**🛠 стек**
+### 🛠 стек:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
