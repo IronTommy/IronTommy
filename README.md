@@ -1,7 +1,5 @@
 # Привет, меня зовут Тимур!
 
----
-
 ## Обо мне:
 
 Стремлюсь стать выдающимся Java-разработчиком <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
