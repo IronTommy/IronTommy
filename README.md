@@ -5,7 +5,7 @@
 Стремлюсь стать выдающимся Java-разработчиком <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
 <p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
+  <img src="github-snake.svg" alt="snake" style="width: 100%; max-width: 100%;">
 </p>
 
 Мой опыт и навыки позволяют мне эффективно выполнять задачи Java-разработчика. Я работаю с такими технологиями, как Java, Spring Boot, PostgreSQL, Kafka и Docker. У меня есть опыт работы с микросервисной архитектурой, мониторингом с использованием Grafana и Prometheus, проектированием и разработкой RESTful сервисов, оптимизацией SQL-запросов, а также разработкой Android-приложений. Я активно использую системы контроля версий Git для управления кодом и обеспечения совместной работы в команде.
