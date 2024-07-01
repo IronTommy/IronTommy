@@ -10,6 +10,7 @@
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
+---
 
 ### Проекты
 
@@ -54,6 +55,8 @@
 ![JUnit](https://img.shields.io/badge/junit-%25A162.svg?style=for-the-badge&color=red&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/mockito-20B2AA?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 <!--
 <div>
