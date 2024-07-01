@@ -52,7 +52,7 @@
 ![JUnit](https://img.shields.io/badge/junit-%25A162.svg?style=for-the-badge&color=red&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/mockito-20B2AA?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Kafka](https://img.shields.io/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 <!--
 <div>
