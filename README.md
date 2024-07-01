@@ -8,6 +8,8 @@
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
+---
+
 ### Проекты:
 
 - 🎈  [organization-service](https://github.com/ironTommy/organization-service) - Spring Boot приложение для управления организациями с использованием REST API.
