@@ -52,9 +52,7 @@
 ![JUnit](https://img.shields.io/badge/junit-%25A162.svg?style=for-the-badge&color=red&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/mockito-20B2AA?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Apache FreeMarker](https://img.shields.io/badge/freemarker-%326CAC.svg?style=for-the-badge&color=blue&logo=apachefreemarker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kafka](https://img.shields.io/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 <!--
 <div>
