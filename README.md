@@ -13,6 +13,8 @@
 
 ### Проекты
 
+- 🎈  [java-Task-Manager](https://github.com/ironTommy/organization-service) - Spring Boot приложение для управления организациями с использованием REST API.
+
 - 🎈  [java-Task-Manager](https://github.com/ironTommy/java-Task-Manager) - REST приложение для управления задачами.
  
 - 🎈  [money-transfer-app](https://github.com/IronTommy/money-transfer-app) - Консольное приложение для перевода денежных средств между счетами.
