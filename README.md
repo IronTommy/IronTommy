@@ -39,6 +39,8 @@
     <a href="https://vk.com/timullka" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
   </div>
+     
+---
 
 **🛠 стек**
 
