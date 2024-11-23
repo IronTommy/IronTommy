@@ -8,8 +8,7 @@
   <img src="github-snake.svg" alt="snake" style="width: 100%; max-width: 100%;">
 </p>
 
-Создатель сети HiMetrik.com
-[HiMetrik.com](https://HiMetrik.com)
+Создатель сети [HiMetrik.com](https://HiMetrik.com)
 
 Мой опыт и навыки позволяют мне эффективно выполнять задачи Java-разработчика. Я работаю с такими технологиями, как 
 <b style="color: #ff4500;">Java</b>, 
